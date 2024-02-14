@@ -15,19 +15,16 @@ const About = () => {
                     languages such as React, JavaScript, HTML, CSS, Tailwind CSS, ASP.NET MVC, and MSSQL.
                     My proficiency extends beyond coding; I bring strong analytical skills and a fervent passion for problem-solving.
                     Eager to learn and grow, I thrive in dynamic environments, consistently delivering effective solutions.
-                    My commitment to continuous learning fuels my adaptability, making me adept at embracing new technologies. 
-                    With a focus on clean and efficient coding practices, I am poised to contribute innovative ideas and collaborate
-                    seamlessly within a team. Ready to embark on a rewarding journey, I am excited about the prospect of
-                    creating impactful and scalable software solutions.
+                   
                 </p>
 
                 <br />
 
-                <p className='text-xl'>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex velit ea necessitatibus
-                    ipsa numquam possimus earum commodi veritatis id, fugiat et voluptas consequuntur,
-                    aliquid aspernatur dicta cum quasi a delectus impedit? Dolore ab ullam consequuntur eveniet est explicabo
-                    obcaecati facilis, necessitatibus corporis doloribus ducimus, rem voluptatem fugit eaque! Quod, fugit.
+                <p className='text-xl mt-2'>
+                My commitment to continuous learning fuels my adaptability, making me adept at embracing new technologies. 
+                    With a focus on clean and efficient coding practices, I am poised to contribute innovative ideas and collaborate
+                    seamlessly within a team. Ready to embark on a rewarding journey, I am excited about the prospect of
+                    creating impactful and scalable software solutions.
                 </p>
             </div>
         </div>
